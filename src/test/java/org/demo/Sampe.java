@@ -11,8 +11,11 @@ public class Sampe {
 		WebDriverManager.chromedriver().setup();
 		WebDriver driver=  new ChromeDriver();
 		
+		int a= 20;
 		
-		
+		if (a==10) {
+			
+		}
 		
 		
 		
