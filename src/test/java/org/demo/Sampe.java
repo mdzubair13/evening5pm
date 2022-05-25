@@ -17,7 +17,7 @@ public class Sampe {
 			
 		}
 		System.out.println("25/5/22");
-		
+		System.out.println("last");
 		
 		
 		
