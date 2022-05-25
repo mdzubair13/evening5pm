@@ -16,7 +16,7 @@ public class Sampe {
 		if (a==10) {
 			
 		}
-		
+		System.out.println("25/5/22");
 		
 		
 		
